@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Wallet"
+        android:id="@+id/wallet"
+        android:icon="@drawable/wallet_icon_6002"
+        android:iconTint="@color/white"/>
+    <item android:title="Friends"
+        android:id="@+id/friends"
+        android:icon="@drawable/friends_icon_transparent_13"
+        />
+    <item android:title="Activity"
+        android:id="@+id/activity"
+        android:icon="@drawable/chart_646"/>
+    <item android:title="Profile"
+        android:id="@+id/profile"
+        android:icon="@drawable/profileicon"/>
+
+</menu>
